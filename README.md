@@ -90,6 +90,13 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Um agradecimento publicamente 🫂;
 * etc.
 
+  ### 🎞 Imagem
+<a  >
+  <img
+    src="https://github.com/Climacobnu/Crud-react/blob/main/Capturar.PNG"
+    alt="api" />
+</a>
+
 
 ---
 ⌨️ By [Leandro Climaco](https://github.com/Climacobnu) 😊
